@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+  background-color: greenyellow;
+}
+.HAPPY{
+  background-color: floralwhite;
+}
+.SAD{
+  background-color: burlywood;
+}
+.ANGRY{
+  background-color: aqua;
+}
+.UGLY{
+  background-color: blue;
+}
